@@ -1,4 +1,5 @@
 #include QMK_KEYBOARD_H
+#include "sendstring_colemak.h"
 #include "g/keymap_combo.h"
 #include "split_util.h"
 
