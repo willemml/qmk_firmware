@@ -1,0 +1,15 @@
+COMB(enter,   KC_ENT,         KC_SPC, KC_BSPC)
+COMB(up,      KC_UP,          KC_D,   KC_E)
+COMB(down,    KC_DOWN,        KC_D,   KC_C)
+COMB(right,   KC_RGHT,        KC_D,   KC_F)
+COMB(left,    KC_LEFT,        KC_D,   KC_S)
+COMB(lsqb,    KC_LBRACKET,    KC_I,   KC_O)
+COMB(rsqb,    KC_RBRACKET ,   KC_O,   KC_P)
+COMB(alfred,  LGUI(KC_SPC),   KC_H,   KC_G)
+COMB(quit,    LGUI(KC_Q),     KC_W,   KC_O)
+COMB(stop,    LCTL(KC_C),     KC_F,   KC_U)
+COMB(control, KC_LCTL,        KC_BSPC,KC_LGUI)
+
+SUBS(lparen,  "(",            KC_Q,   KC_W)
+SUBS(rparen,  ")",            KC_W,   KC_E)
+
